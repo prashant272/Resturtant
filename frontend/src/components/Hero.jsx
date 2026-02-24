@@ -241,7 +241,7 @@ const Hero = () => {
                     </div>
 
                     {/* ─── Right Column: Order Card ─── */}
-                    <div className="lg:col-span-5 mb-8 lg:mb-0">
+                    <div className="lg:col-span-5 mb-8 lg:mb-0 mt-6 lg:mt-10">
                         <div className="bg-dark-900/40 border border-white/20 rounded-[2.5rem] p-6 lg:p-8 backdrop-blur-3xl shadow-3xl relative overflow-hidden group hover:border-gold/40 transition-all duration-700">
                             <div className="absolute -top-12 -right-12 w-48 h-48 bg-gold/5 rounded-full blur-[60px] pointer-events-none group-hover:bg-gold/10 transition-colors"></div>
 

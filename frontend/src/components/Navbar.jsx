@@ -35,7 +35,7 @@ const Navbar = () => {
                         <img
                             src="/logo.jpeg"
                             alt="Biryani YoYo Logo"
-                            className="h-16 sm:h-24 w-auto rounded-full border-2 sm:border-4 border-gold shadow-2xl relative z-[60] -mb-6 sm:-mb-10 md:-mb-0 transition-all duration-300 hover:scale-110 object-cover"
+                            className="h-16 sm:h-24 w-auto rounded-full border-2 sm:border-4 border-gold shadow-2xl relative z-[60] -mb-6 sm:-mb-1 md:-mb-0 transition-all duration-300 hover:scale-110 object-cover"
                         />
                         <img
                             src="/logo1.jpeg"
