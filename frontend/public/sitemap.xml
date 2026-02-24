@@ -1,39 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://biryaniyoyo.in/</loc>
-    <lastmod>2026-02-20</lastmod>
+    <loc>https://www.biryaniyoyo.in/</loc>
+    <lastmod>2026-02-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://biryaniyoyo.in/menu</loc>
-    <lastmod>2026-02-20</lastmod>
+    <loc>https://www.biryaniyoyo.in/menu</loc>
+    <lastmod>2026-02-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://biryaniyoyo.in/about</loc>
-    <lastmod>2026-02-20</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.biryaniyoyo.in/about</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://biryaniyoyo.in/contact</loc>
-    <lastmod>2026-02-20</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.biryaniyoyo.in/contact</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://biryaniyoyo.com/login</loc>
-    <lastmod>2026-02-20</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
-  </url>
-  <url>
-    <loc>https://biryaniyoyo.com/register</loc>
-    <lastmod>2026-02-20</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://www.biryaniyoyo.in/login</loc>
+    <lastmod>2026-02-24</lastmod>
+    <changefreq>daily</changefreq>
     <priority>0.3</priority>
   </url>
 </urlset>
