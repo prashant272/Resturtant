@@ -30,12 +30,18 @@ const Navbar = () => {
         >
             <div className="container mx-auto px-6 flex justify-between items-center">
                 {/* Logo */}
-                <div className="flex items-center gap-3">
-                    <Link to="/" className="flex items-center gap-2">
-                        <img src="/logo.jpeg" alt="Biryani YoYo Logo" className="h-12 w-auto rounded-full border-2 border-gold" />
-                        <span className="text-2xl font-bold font-display tracking-wider text-gold-gradient">
-                            Biryani YoYo
-                        </span>
+                <div className="flex items-center gap-2 sm:gap-3">
+                    <Link to="/" className="flex items-center gap-1 sm:gap-2 relative group">
+                        <img
+                            src="/logo.jpeg"
+                            alt="Biryani YoYo Logo"
+                            className="h-16 sm:h-24 w-auto rounded-full border-2 sm:border-4 border-gold shadow-2xl relative z-[60] -mb-6 sm:-mb-10 md:-mb-0 transition-all duration-300 hover:scale-110 object-cover"
+                        />
+                        <img
+                            src="/logo1.jpeg"
+                            alt="Biryani YoYo Logo Text"
+                            className="h-8 sm:h-12 md:h-16 w-auto object-contain ml-1 sm:ml-2 mt-1 mix-blend-screen filter brightness-110 contrast-125"
+                        />
                     </Link>
                 </div>
 
