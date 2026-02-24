@@ -46,12 +46,12 @@ const Contact = () => {
                         <div className="bg-dark-800 p-6 rounded-lg border border-white/5 hover:border-gold/30 transition-all">
                             <MapPin className="text-gold mb-4" size={28} />
                             <h3 className="font-bold text-white mb-2">Our Kitchen</h3>
-                            <p className="text-gray-400 text-sm">Biryani YoYo<br />Shop no. F10,11 , 1st floor, H L Plaza,<br />Sector 12 market, Dwarka-110075</p>
+                            <p className="text-gray-400 text-sm">Biryani YoYo<br />T-1, 3rd Floor, Ruff Toff</p>
                         </div>
                         <div className="bg-dark-800 p-6 rounded-lg border border-white/5 hover:border-gold/30 transition-all">
                             <Phone className="text-gold mb-4" size={28} />
                             <h3 className="font-bold text-white mb-2">Call / WhatsApp</h3>
-                            <p className="text-gray-400 text-sm">926639266</p>
+                            <p className="text-gray-400 text-sm">9319 9319 06</p>
                         </div>
                         <div className="bg-dark-800 p-6 rounded-lg border border-white/5 hover:border-gold/30 transition-all">
                             <Mail className="text-gold mb-4" size={28} />
@@ -81,7 +81,7 @@ const Contact = () => {
 
                     {/* WhatsApp Button */}
                     <a
-                        href="https://wa.me/910000000000"
+                        href="https://wa.me/919319931906"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="w-full flex items-center justify-center gap-3 bg-green-600 hover:bg-green-700 text-white font-bold py-4 rounded-lg transition-all uppercase tracking-wider"

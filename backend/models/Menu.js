@@ -21,7 +21,11 @@ const menuSchema = new mongoose.Schema({
     category: {
         type: String,
         required: [true, "Please add a category"],
-        enum: ['Chicken Biryani', 'Mutton Biryani', 'Veg Biryani', 'Starters', 'Combos', 'Sides', 'Beverages', 'Other'],
+        enum: [
+            'Tandori', 'Biryani', 'Bread', 'Starters', 'Mains',
+            'COMBO', 'DESSERTS', 'MOMO',
+            'Chicken Biryani', 'Mutton Biryani', 'Veg Biryani', 'Combos', 'Sides', 'Beverages', 'Other'
+        ],
         default: 'Other'
     },
     image: {
