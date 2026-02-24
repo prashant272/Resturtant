@@ -14,8 +14,8 @@ const Contact = () => {
             answer: "Yes! We offer fast and reliable home delivery within 45 minutes for orders within our delivery radius."
         },
         {
-            question: "Is the meat 100% Halal?",
-            answer: "Absolutely. We use only premium quality, 100% Halal certified meat for all our preparations."
+            question: "Is the meat fresh and of good quality?",
+            answer: "Absolutely. We use only premium quality, fresh meat sourced daily for all our preparations."
         },
         {
             question: "Do you take bulk orders for parties?",
